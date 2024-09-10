@@ -1,0 +1,4 @@
+baseURL: "https://awesome-hugo.github.io/compose/"
+languageCode: en-us
+title: Compose Theme
+theme: ["compose"]
